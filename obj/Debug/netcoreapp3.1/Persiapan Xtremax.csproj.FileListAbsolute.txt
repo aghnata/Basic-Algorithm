@@ -1,0 +1,13 @@
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\bin\Debug\netcoreapp3.1\Persiapan Xtremax.exe
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\bin\Debug\netcoreapp3.1\Persiapan Xtremax.deps.json
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\bin\Debug\netcoreapp3.1\Persiapan Xtremax.runtimeconfig.json
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\bin\Debug\netcoreapp3.1\Persiapan Xtremax.runtimeconfig.dev.json
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\bin\Debug\netcoreapp3.1\Persiapan Xtremax.dll
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\bin\Debug\netcoreapp3.1\Persiapan Xtremax.pdb
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.csprojAssemblyReference.cache
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.AssemblyInfoInputs.cache
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.AssemblyInfo.cs
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.csproj.CoreCompileInputs.cache
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.dll
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.pdb
+D:\WorkingSpace\Job Test Praparation\Persiapan Xtremax\obj\Debug\netcoreapp3.1\Persiapan Xtremax.genruntimeconfig.cache
